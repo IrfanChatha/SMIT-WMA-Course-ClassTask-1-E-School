@@ -1,0 +1,51 @@
+.textcolr {
+    color: black !important;
+}
+
+#signinbt {
+    background-color:green;
+}
+
+#signinbt2 {
+    background-color:green;
+    border-radius:25px
+}
+
+.cardimgsize {
+    width:50px;
+    height:70px;
+    align-self: center;
+}
+
+.card-hover:hover {
+    border-style:groove;
+    border-color: lightseagreen;
+    border-width: 2px;
+    background:initial !important
+}
+
+.testimonials {
+    padding-left: 250px;
+    padding-right: 250px;
+}
+  
+.testimonial {
+    display: flex;
+    margin-bottom: 50px;
+}
+  
+.testimonial-image {
+    width: 100px;
+    height: 100px;
+    margin-right: 50px;
+}
+  
+.testimonial-text {
+    font-size: 18px
+}
+
+.style2 {
+    color: white; 
+    text-align:center;
+    padding-left: 450px;
+}
